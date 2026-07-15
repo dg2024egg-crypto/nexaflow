@@ -4,7 +4,7 @@ A product-led marketing site for a **fictional** AI-automation SaaS, built as a
 front-end portfolio piece. It demonstrates clean React + TypeScript
 architecture, responsive CSS, accessibility, and real, working interactivity.
 
-[View the full interactive portfolio →](https://premium-web-demos.dg2018egg.chatgpt.site)
+[View the full interactive portfolio →]
 
 ## Highlights
 
